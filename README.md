@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-Stack Blockchain Developer (BCA) with expertise in Solidity/Foundry and a modern Web3 stack<br>(Viem/Wagmi). Finalist in 2 hackathons, specializing in building secure, scalable dApps that bridge on-chain<br>and off-chain systems.<br>
+🏆 2x Hackathons | Full Stack Developer | Expertise in MEAN Stack (MongoDB, Express.js, React.js, Node.js,Next.js) | Built a real-time private chat app for 5K+ users | won 200$+
+
+<br>
 
 
 ## 🌐 Socials:
