@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aditya45210l@gmail.com**
 
-- ⚡ Fun fact **I enjoy building production-ready projects more than tutorial clones **
+- ⚡ Fun fact **I enjoy building production-ready projects more than tutorial clones**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/aditya45210l](https://github.com/aditya45210l)**
 
